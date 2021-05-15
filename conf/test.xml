@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<robots>
+	<robot x="100.0" y="100.0" theta="0.005">
+    <velocity angular="3.0" speed="3.0" />
+    <gui visible="false"></gui>
+    <result recode="true"></result>
+  </robot>
+</robots>

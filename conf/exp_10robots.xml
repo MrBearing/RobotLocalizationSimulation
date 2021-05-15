@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<robots name="exp_10robots.xml">
+	<robot name="A" theta="1.5707963267948966" x="150.0" y="0.0">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+	<robot name="B" theta="2.199114857512855" x="121.35254915624212"
+		y="88.16778784387097">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+	<robot name="C" theta="2.827433388230814" x="46.35254915624212"
+		y="142.65847744427302">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+	<robot name="D" theta="3.4557519189487724" x="-46.3525491562421"
+		y="142.65847744427305">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+	<robot name="E" theta="4.084070449666731" x="-121.35254915624209"
+		y="88.16778784387098">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+	<robot name="F" theta="4.71238898038469" x="-150.0"
+		y="1.8369701987210297E-14">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+	<robot name="G" theta="5.340707511102648" x="-121.35254915624212"
+		y="-88.16778784387095">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+	<robot name="H" theta="5.969026041820607" x="-46.352549156242134"
+		y="-142.65847744427302">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+	<robot name="I" theta="0.3141592653589793" x="46.352549156242084"
+		y="-142.65847744427305">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+	<robot name="J" theta="0.9424777960769379" x="121.35254915624209"
+		y="-88.167787843871">
+		<velocity angular="2.0" speed="3.0" />
+		<gui />
+		<result recode="true" />
+	</robot>
+</robots>
